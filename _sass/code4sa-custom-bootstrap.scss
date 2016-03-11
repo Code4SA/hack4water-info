@@ -1,3 +1,5 @@
+@import "variables";
+
 // work around a bug in pyscss that doesn't include a trailing ; at the end of
 // @import directives without this
 html {
